@@ -1,2 +1,2 @@
 # Udemy_BackendPython
-Repositório do curso Programação Backend com Python
+Repository for the codes from the program Programação Backend com Python from Udemy
